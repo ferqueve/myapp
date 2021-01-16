@@ -19,7 +19,7 @@
     "template",
     "category-general"
   ],
-  "repository": "<fill-your-repository-here>",
+  "repository": "https://github.com/ferqueve/myapp",
   "homepage": "https://github.com/NativeScript/nativescript-app-templates",
   "bugs": {
     "url": "https://github.com/NativeScript/NativeScript/issues"
